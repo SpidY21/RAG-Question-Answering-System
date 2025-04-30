@@ -1,0 +1,8 @@
+llama-index
+llama-index-llms-openai
+PyMuPDF
+python-docx
+numpy==1.23.5
+pandas==1.5.3
+sentence-transformers
+llama-index-embeddings-huggingface
